@@ -1,6 +1,6 @@
 ### Olá, sou Kauã Felinto 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-felinto-926b8a1ba/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauafelinto)
 
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaFelinto&show_icons=true&theme=radical)
 
